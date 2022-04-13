@@ -1,0 +1,2 @@
+Prefix plugins/BLASTHits/example
+Plugin BLASTHits inputfile parameters.hits.txt outputfile BLASTHits.txt
